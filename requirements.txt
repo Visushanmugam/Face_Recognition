@@ -1,3 +1,4 @@
 pylint
 opencv-python
+opencv-contrib-python
 numpy
